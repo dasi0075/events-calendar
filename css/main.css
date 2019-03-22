@@ -5,3 +5,75 @@ html {
 td {
   height: 11em;
 }
+
+.vostok {
+  color: #333;
+  border: 2px solid #333;
+  background-color: #ccc;
+  border-radius: 8px;
+  padding: .3em;
+}
+
+.remembrance {
+  color: #b92828;
+  border: 2px solid #b92828;
+  background-color: #f2bcbc;
+  border-radius: 8px;
+  padding: .3em;
+}
+
+.kosmos {
+  color: #666;
+  border: 2px solid #666;
+  background-color: #f2f2f2;
+  border-radius: 8px;
+  padding: .3em;
+}
+
+.surtsey {
+  color: #51603f;
+  border: 2px solid #6b7e54;
+  background-color: #d1e0bf;
+  border-radius: 8px;
+  padding: .3em;
+}
+
+.robert {
+  color: #51603f;
+  border: 2px solid #6b7e54;
+  background-color: #d1e0bf;
+  border-radius: 8px;
+  padding: .3em;
+}
+
+.india {
+  color: #666;
+  border: 2px solid #666;
+  background-color: #f2f2f2;
+  border-radius: 8px;
+  padding: .3em;
+}
+
+.death {
+  color: #38448e;
+  border: 2px solid #1d38da;
+  background-color: #d2d6f0;
+  border-radius: 8px;
+  padding: .3em;
+}
+
+.doctor {
+  color: #38448e;
+  border: 2px solid #1d38da;
+  background-color: #d2d6f0;
+  border-radius: 8px;
+  padding: .3em;
+}
+
+.explorer {
+  color: #666;
+  border: 2px solid #666;
+  background-color: #f2f2f2;
+  border-radius: 8px;
+  padding: .3em;
+}
