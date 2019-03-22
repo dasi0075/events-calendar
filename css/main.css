@@ -1,9 +1,18 @@
 html {
-  font-family: "Merriweather", serif;
+  font-family: Merriweather, serif;
+}
+
+table {
+  width: 100%;
 }
 
 td {
   height: 11em;
+  border: 2px solid #ccc;
+}
+
+thead th {
+  border: 2px solid #ccc;
 }
 
 .vostok {
@@ -15,7 +24,7 @@ td {
 }
 
 .remembrance {
-  color: #b92828;
+  color: #991919;
   border: 2px solid #b92828;
   background-color: #f2bcbc;
   border-radius: 8px;
